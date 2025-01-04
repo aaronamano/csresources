@@ -7,7 +7,7 @@ MongoDB University🍃
 Cisco Networking Academy🛜
 ➡️https://www.netacad.com/
 
-edX🩶
+edX🩶 <br>
 ➡️https://www.edx.org/
 
 freeCodeCamp.org💻
